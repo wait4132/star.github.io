@@ -1,3 +1,7 @@
+---
+layout: post
+author: zxx
+---
 [markdown标题](https://wait4132.github.io/wait.github.io/markdown-标题.html)  
 [markdown段落](https://wait4132.github.io/wait.github.io/markdown-段落.html)  
 [markdown列表](https://wait4132.github.io/wait.github.io/markdown-列表.html)  
